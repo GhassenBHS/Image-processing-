@@ -16,7 +16,6 @@ alpha: (optional) Weight of smoothing term
 **********************************************
 **********************************************
 
-![alt tag](https://github.com/GhassenBHS/Image-processing-/blob/master/gui.PNG)
 
 
 Written in 5/10/2016.
