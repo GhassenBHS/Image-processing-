@@ -16,7 +16,5 @@ alpha: (optional) Weight of smoothing term
 **********************************************
 **********************************************
 
-WinTOPO is a software that allows the conversion of raster image to a vector image. It is a non free software. 
-We included it in this project for testing purposes.
 
 Written in 5/10/2016.
